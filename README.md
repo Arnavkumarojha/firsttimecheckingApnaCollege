@@ -1,2 +1,3 @@
 # firsttimecheckingApnaCollege
 this is my first git respositary 
+Author - Arnav kumar ojha
